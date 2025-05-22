@@ -1,0 +1,17 @@
+.cart {
+  padding: 20px;
+}
+.cart-item {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.cart-item img {
+  width: 80px;
+  height: auto;
+}
+.counter {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}

@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  background: #2e2929;
+  color: #fff;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
